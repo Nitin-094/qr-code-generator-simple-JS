@@ -1,0 +1,17 @@
+{
+  "name": "aaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "abc.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "qr-image": "^3.2.0",
+    "superheroes": "^3.0.0"
+  }
+}
